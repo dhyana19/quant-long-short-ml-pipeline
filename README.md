@@ -71,26 +71,6 @@ No historical market data is stored or version-controlled in this repository.
 
 ---
 
-## Repository Structure
-
-quant-long-short-ml-pipeline/
-├─ notebooks/
-│ ├─ 01_signal_generation.ipynb
-│ └─ 02_exit_strategy_risk_engine.ipynb
-├─ src/ # (modularization planned)
-├─ configs/
-│ └─ config.example.yaml
-├─ assets/
-│ └─ screenshots/
-├─ data/
-│ └─ README.md
-├─ README.md
-├─ requirements.txt
-├─ .gitignore
-└─ LICENSE
-
----
-
 ## Disclaimer
 
 This project is for **educational and research purposes only**.  
